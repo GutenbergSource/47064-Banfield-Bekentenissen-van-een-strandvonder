@@ -1,0 +1,62 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="74320" filedate="2013-02-22 11:31:49" width="481px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="53791" filedate="2014-10-02 17:47:11" width="488px" height="720px">
+</image>
+<image path="images/initial-a.png" filesize="6029" filedate="2014-10-04 08:43:35" width="104px" height="103px">
+</image>
+<image path="images/initial-b.png" filesize="6374" filedate="2014-10-02 18:23:55" width="105px" height="106px">
+</image>
+<image path="images/initial-e.png" filesize="6070" filedate="2014-10-04 08:45:37" width="104px" height="104px">
+</image>
+<image path="images/initial-g.png" filesize="6108" filedate="2014-10-04 08:47:14" width="104px" height="105px">
+</image>
+<image path="images/initial-i.png" filesize="6357" filedate="2014-10-02 18:07:28" width="106px" height="107px">
+</image>
+<image path="images/initial-s.png" filesize="6217" filedate="2014-10-04 08:49:18" width="103px" height="104px">
+</image>
+<image path="images/initial-t.png" filesize="6178" filedate="2014-10-02 17:58:14" width="105px" height="105px">
+</image>
+<image path="images/lbrace2.png" filesize="443" filedate="2012-12-26 07:07:56" width="18px" height="41px">
+</image>
+<image path="images/lbrace3.png" filesize="530" filedate="2014-10-04 08:52:10" width="10px" height="51px">
+</image>
+<image path="images/o068.png" filesize="4752" filedate="2014-10-02 18:09:57" width="162px" height="105px">
+</image>
+<image path="images/p016.jpg" filesize="68148" filedate="2014-10-02 18:04:50" width="720px" height="485px">
+</image>
+<image path="images/p070.jpg" filesize="96431" filedate="2014-10-02 18:12:53" width="720px" height="474px">
+</image>
+<image path="images/p078.jpg" filesize="95793" filedate="2014-10-02 18:27:57" width="720px" height="473px">
+</image>
+<image path="images/p092.jpg" filesize="91839" filedate="2014-10-02 18:32:59" width="720px" height="483px">
+</image>
+<image path="images/p130.jpg" filesize="57345" filedate="2014-10-04 12:01:21" width="487px" height="720px">
+</image>
+<image path="images/p145-1.jpg" filesize="25649" filedate="2014-10-04 12:04:53" width="291px" height="437px">
+</image>
+<image path="images/p145-2.jpg" filesize="22783" filedate="2014-10-04 12:07:22" width="292px" height="436px">
+</image>
+<image path="images/p157.jpg" filesize="98287" filedate="2014-10-04 12:12:57" width="487px" height="720px">
+</image>
+<image path="images/p172.jpg" filesize="54955" filedate="2014-10-04 12:10:05" width="483px" height="720px">
+</image>
+<image path="images/p181.jpg" filesize="97465" filedate="2014-10-04 12:16:11" width="720px" height="477px">
+</image>
+<image path="images/pattern.jpg" filesize="94771" filedate="2014-10-02 18:44:03" width="496px" height="720px">
+</image>
+<image path="images/rbrace2.png" filesize="950" filedate="2013-07-01 04:24:42" width="18px" height="41px">
+</image>
+<image path="images/rbrace3.png" filesize="542" filedate="2014-10-04 08:52:27" width="10px" height="51px">
+</image>
+<image path="images/titlepage.jpg" filesize="105315" filedate="2014-10-02 17:42:04" width="478px" height="720px">
+</image>
+<image path="images/titlepage1.jpg" filesize="116407" filedate="2014-10-02 17:40:06" width="484px" height="720px">
+</image>
+</images>
